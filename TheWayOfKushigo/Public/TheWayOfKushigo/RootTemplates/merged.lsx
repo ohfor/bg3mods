@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save> To create new ring GameObjects, simply copy and paste any of the 4 rings below, Generate new handles and UUID and rename. Then perform a similar process in the Armor.txt, and copy UUID and name from here to there.
+	<version major="4" minor="0" revision="6" build="5" /> Lastly, you need to copy both handles to the Localization xml file and write the item's name and description.
+	<region id="Templates">
+		<node id="Templates">
+			<children> 
+				<node id="GameObjects"> Kushigo Backpack
+					<attribute id="Description" type="TranslatedString" handle="he2871ef8gaec7g450ag899bgef0e9ac90c90" version="1" /> Points to Localization xml file. Generate new handle
+					<attribute id="DisplayName" type="TranslatedString" handle="h27260b38g7fd0g4fccgad77g140cc79e2199" version="1" /> Points to Localization xml file. Generate new handle
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Backpack_A_Posed_A" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="144ad39d-9d25-4e76-a282-042ef36500d3" /> Same UUID as in Object.txt. Generate new UUID
+					<attribute id="Name" type="LSString" value="OHF_KUSHIGO_BACKPACK" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" /> Points to LOOT_GEN_Backpack_B_Posed_A in Shared.PAK's RootTemplate
+					<attribute id="Scale" type="float" value="0.85" /> Use this to shrink or enlarge your container.
+					<attribute id="Stats" type="FixedString" value="OHF_KUSHIGO_BACKPACK" /> 
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="OHF_KUSHIGO_BACKPACK_TT" /> Points to TreasureTable.txt
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>	
+				<node id="GameObjects"> Sample Magic Ring 4 / Star Athlete's Ring
+					<attribute id="Description" type="TranslatedString" handle="hecc7f400g4462g401cga30fg92c0cbea7968" version="1" /> Points to Localization xml file. Generate new handle with BG3 Modder's Multitool
+					<attribute id="DisplayName" type="TranslatedString" handle="h74c4e9c1g1329g4049ga2d2g206bef3850a3" version="1" /> Points to Localization xml file. Generate new handle with BG3 Modder's Multitool
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Ring_F_Silver_A" /> Use the same icon as the ParentTemplate ring			
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="d3367063-2b52-443e-b725-b4902cd00c36" /> Same UUID as in Armor.txt. Generate new UUID
+					<attribute id="Name" type="LSString" value="OHF_My_Magic_Ring" /> Same as Stats
+					<attribute id="ParentTemplateId" type="FixedString" value="49b84359-6a28-460e-af98-4526c5fca6fd" /> Points to LOOT_GEN_Ring_F_Silver_A
+					<attribute id="Stats" type="FixedString" value="OHF_My_Magic_Ring" /> Stats for the Armor.txt
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>				
+			</children>
+		</node>
+	</region>
+</save>

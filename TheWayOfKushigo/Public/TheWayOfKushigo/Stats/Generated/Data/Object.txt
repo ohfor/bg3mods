@@ -1,0 +1,7 @@
+new entry "OHF_KUSHIGO_BACKPACK"
+type "Object"
+using "_Container"
+data "RootTemplate" "144ad39d-9d25-4e76-a282-042ef36500d3"
+data "ValueOverride" "7"
+data "Weight" "0.1"
+data "Rarity" "Rare"
