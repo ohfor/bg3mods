@@ -1,12 +1,3 @@
-new entry "OHF_My_Magic_Ring"
-type "Armor"
-using "_Ring"
-data "RootTemplate" "d3367063-2b52-443e-b725-b4902cd00c36"
-data "ObjectCategory" "Jewelry"
-data "ValueOverride" "666"
-data "Rarity" "Rare"
-data "Boosts" "Ability(Constitution,8);Ability(Dexterity,9);Ability(Strength,8);Ability(Intelligence, 8);Ability(Wisdom, 8);Ability(Charisma, 8);ProficiencyBonus(Skill,SleightOfHand);Skill(SleightOfHand, 4);ProficiencyBonus(Skill,Athletics);Skill(Athletics, 4);ProficiencyBonus(Skill,Acrobatics);Skill(Acrobatics, 4);ProficiencyBonus(Skill,Stealth);Skill(Stealth, 4);"
-
 new entry "MOD_MAG_Monk_Magic_Armor"
 type "Armor"
 using "MAG_Monk_Magic_Armor"

@@ -14,17 +14,29 @@ I don't think the items here will last you all the way through the end game, nor
 
 Once installed, a bag called **The Legacy of Kushigo** will be added to the [Tutorial Chest](https://www.nexusmods.com/baldursgate3/mods/457). Inside you will find the following items:
 
-- Hat of Uninhibited Kushigo
-- Armour of Uninhibited Kushigo
-- Gloves of Uninhibited Kushigo
-- Boots of Uninhibited Kushigo
+## Hat of Uninhibited Kushigo
+![Hat of Uninhibited Kushigo](../media/kushigo/hat.png)
+
+## Armour of Uninhibited Kushigo
+![Armour of Uninhibited Kushigo](../media/kushigo/armour.png)
+
+## Gloves of Uninhibited Kushigo
+![Gloves of Uninhibited Kushigo](../media/kushigo/gloves.png)
+
+## Boots of Uninhibited Kushigo
+![Boots of Uninhibited Kushigo](../media/kushigo/boots.png)
 
 While certainly very nice, none of them will truly overpower you in the very early game. The boots are likely to stay with you for the entire duration however.
 
 And as a bonus, a few pick-me-up items have been added intended for the late-early to early-mid (whatever this means, lol) game.
 
-- Ring of Free Action
-- Garb of the Land and Sky
-- Scabby Pugilist Circlet
+## Ring of Free Action
+![Ring of Free Action](../media/kushigo/ring.png)
+
+## Garb of the Land and Sky
+![Garb of the Land and Sky](../media/kushigo/garb.png)
+
+## Scabby Pugilist Circlet
+![Scabby Pugilist Circlet](../media/kushigo/circlet.png)
 
 That's it. That's the mod.
