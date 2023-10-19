@@ -1,0 +1,7 @@
+new entry "OHF_HEALER_BACKPACK"
+type "Object"
+using "_Container"
+data "RootTemplate" "e6be2894-4b9c-48ed-8bbd-46acf26fbd76"
+data "ValueOverride" "7"
+data "Weight" "0.1"
+data "Rarity" "Rare"

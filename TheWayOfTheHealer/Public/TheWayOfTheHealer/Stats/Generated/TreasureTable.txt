@@ -1,0 +1,23 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OHF_HEALER_BACKPACK",1,0,0,0,0,0,0,0
+
+new treasuretable "OHF_HEALER_BACKPACK_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_OHF_ARM_BootsOfSpeed",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_DEN_HellridersPride",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_UND_SocietyOfBrilliance_PullingRing",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_UNI_MassHealRing",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_Healer_HealSelf_Helmet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_UND_Justiciar_Chainshirt_Magic",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_DEN_BearReward_Amulet",1,0,0,0,0,0,0,0
+new subtable "5,1"
+object category "I_OBJ_Dye_RedWhite",1,0,0,0,0,0,0,0
