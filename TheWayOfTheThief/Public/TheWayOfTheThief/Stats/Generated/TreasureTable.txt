@@ -1,0 +1,23 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OHF_THIEF_BACKPACK",1,0,0,0,0,0,0,0
+
+new treasuretable "OHF_THIEF_BACKPACK_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_OHF_GOB_PainPriest_Dagger",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_Shadow_FogOfCloudDisengage_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_PHB_OfThievery_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_ShapeshiftersBurgeon_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_GOB_DrowCommander_Leather_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_PLA_SmugglerRing",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_UND_ShadowOfMenzoberranzan",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_GOB_DrowCommander_Leather_Boots",1,0,0,0,0,0,0,0

@@ -1,0 +1,6 @@
+new entry "OHF_GOB_PainPriest_Dagger"
+using "GOB_PainPriest_Dagger"
+data "MinLevel" "1"
+data "RootTemplate" "11aa209f-6e42-40bd-a12c-aa33445c21ea"
+data "Rarity" "Uncommon"
+data "Unique" "0"
