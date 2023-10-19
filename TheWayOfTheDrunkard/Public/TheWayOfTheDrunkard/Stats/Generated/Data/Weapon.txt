@@ -1,0 +1,6 @@
+new entry "OHF_MAG_TWN_Brewery_Greatclub"
+using "MAG_TWN_Brewery_Greatclub"
+data "MinLevel" "1"
+data "RootTemplate" "82029987-a77c-4bb5-99b9-3b513cb551f1"
+data "Rarity" "Rare"
+data "Unique" "0"

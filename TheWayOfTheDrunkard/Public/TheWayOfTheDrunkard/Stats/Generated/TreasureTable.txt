@@ -1,0 +1,22 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OHF_DRUNKARD_BACKPACK",1,0,0,0,0,0,0,0
+
+new treasuretable "OHF_DRUNKARD_BACKPACK_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_OHF_MAG_EGW_OfTheDrunkard_Amulet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_Drunken_Cloth",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_TWN_Brewery_Greatclub",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_Harpers_RingOfProjection",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_DRUNK_MAG_Monk_Magic_Gloves",1,0,0,0,0,0,0,0
+new subtable "20,1"
+object category "I_CONS_DRINK_Rum",1,0,0,0,0,0,0,0
+new subtable "20,1"
+object category "I_CONS_DRINK_Beer",1,0,0,0,0,0,0,0
+
