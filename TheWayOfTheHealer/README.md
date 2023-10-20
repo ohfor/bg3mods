@@ -6,20 +6,20 @@ I'm trying to provide an enhanced starter experience without tossing the balance
 
 Walking the balance between useful for a specific purpose (healer, in this case) and not being too overpowered is not always easy. For this mod, my biggest doubts were about including The Whispering Promise or not. In the end I decided to include it. If you feel it overpowers the whole thing too much, just leave it behind in the Tutorial Chest I guess? :D
 
-The combination of items in this mods turned out to be a regular fashion disaster, so I've included a stack of thematically appropriate dyes to alleviate the situation at least a bit. 
+I've also included a stack of thematically appropriate dyes for your convenience.
 
 This mod introduces a new pack in the Tutorial Chest, a backpack named "The Way of the Healer". Inside it you will find the following items:
 
 ## Amulet of Sylvanus
 ![Amulet of Sylvanus](../media/healer/amulet.png)
 
-## Dark Justiciar Mail (the Uncommon one, none of the later OP ones)
-![Dark Justiciar Mail](../media/healer/armour.png)
+## Robust Chain Shirt
+![Robust Chain Shirt](../media/healer/armour.png)
 
-## Boots of Speed (for the aspiring emergency medic)
-![Boots of Speed](../media/healer/boots.png)
+## Boots of Aid and Comfort
+![Boots of Aid and Comfort](../media/healer/boots.png)
 
-## White and Scarlet Dye (5) - To avoid persecution from the Fashion Police
+## White and Scarlet Dye (5) - For a white/red medic aestetic
 ![White and Scarlet Dye](../media/healer/dye.png)
 
 ## Hellrider's Pride
