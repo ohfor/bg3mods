@@ -32,7 +32,7 @@ This mod introduces a new pack in the Tutorial Chest, a backpack named "The Way 
 ![Poisoner's Ring](../media/poisoner/ring2.png)
 
 ## Black and Summer Green Dye
-![White and Scarlet Dye](../media/healer/dye.png)
+![White and Scarlet Dye](../media/poisoner/dye.png)
 
 ## Elixir of Poison Resistance
 ![Elixir of Poison Resistance](../media/poisoner/elixir.png)
