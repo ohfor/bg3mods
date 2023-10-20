@@ -1,0 +1,27 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OHF_POISONER_BACKPACK",1,0,0,0,0,0,0,0
+
+new treasuretable "OHF_POISONER_BACKPACK_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_OHF_ARM_RingOfPoisonResistance",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_FOR_SpiderstepBoots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_FOR_SpiderQueen_Robe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_Poison_InflictPoisonHealSelf_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_Poison_PoisonLethality_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_Poison_PoisonExposure_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_Healer_HealSelfPoisonWeapon_Amulet",1,0,0,0,0,0,0,0
+new subtable "10,1"
+object category "I_OBJ_Potion_Of_Poison_Resistance",1,0,0,0,0,0,0,0
+new subtable "10,1"
+object category "I_OBJ_WyvernPoison",1,0,0,0,0,0,0,0
+new subtable "5,1"
+object category "I_OBJ_Dye_BlackGreen",1,0,0,0,0,0,0,0
