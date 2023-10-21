@@ -1,0 +1,7 @@
+new entry "OHF_FRIGID_BACKPACK"
+type "Object"
+using "_Container"
+data "RootTemplate" "bd287bd4-1543-44c4-a8f2-5daef63692b8"
+data "ValueOverride" "7"
+data "Weight" "0.1"
+data "Rarity" "Rare"

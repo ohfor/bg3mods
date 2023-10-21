@@ -1,0 +1,25 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OHF_FRIGID_BACKPACK",1,0,0,0,0,0,0,0
+
+new treasuretable "OHF_FRIGID_BACKPACK_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_OHF_MAG_Cold_IncreaseColdDamageOnCast_Staff",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_Frost_Offhand_Dagger",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_Frost_GenerateFrostOnDamage_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_Frost_GenerateFrostOnStatusApply_Hat",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_Frost_GenerateFrostOnDamage_Robe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_Frost_IceSurfaceProneImmunity_Boots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_Frost_Frostbite_Amulet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_Frost_GenerateSurfaceOnColdDamage_Ring",1,0,0,0,0,0,0,0
+new subtable "5,1"
+object category "I_OBJ_Dye_Azure",1,0,0,0,0,0,0,0

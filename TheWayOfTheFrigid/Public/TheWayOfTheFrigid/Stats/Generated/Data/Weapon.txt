@@ -1,0 +1,13 @@
+new entry "OHF_MAG_Frost_Offhand_Dagger"
+using "MAG_Frost_Offhand_Dagger"
+data "MinLevel" "1"
+data "RootTemplate" "a8661143-d94d-4f49-a92f-cbd0a9a500a1"
+data "Rarity" "Rare"
+data "Unique" "0"
+
+new entry "OHF_MAG_Cold_IncreaseColdDamageOnCast_Staff"
+using "MAG_Cold_IncreaseColdDamageOnCast_Staff"
+data "MinLevel" "1"
+data "RootTemplate" "cab10a42-8c85-459a-9d68-b4836388c022"
+data "Rarity" "VeryRare"
+data "Unique" "0"
