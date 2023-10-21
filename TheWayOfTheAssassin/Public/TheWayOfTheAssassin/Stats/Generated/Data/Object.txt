@@ -1,0 +1,7 @@
+new entry "OHF_ASSASSIN_BACKPACK"
+type "Object"
+using "_Container"
+data "RootTemplate" "0c305a75-87a1-45ba-a5a7-fd6a261432da"
+data "ValueOverride" "7"
+data "Weight" "0.1"
+data "Rarity" "Rare"

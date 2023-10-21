@@ -1,0 +1,30 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OHF_ASSASSIN_BACKPACK",1,0,0,0,0,0,0,0
+
+new treasuretable "OHF_ASSASSIN_BACKPACK_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_OHF_GOB_DrowCommander_Leather_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_UND_ShadowOfMenzoberranzan",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_FOR_NightWalkers",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_Mobility_JumpOnDash_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_Shadow_ShadowBlade_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_PassWithoutTrace_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_Healer_HealSelfPoisonWeapon_Amulet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_Shadow_Blinding_Bow",1,0,0,0,0,0,0,0
+new subtable "5,1"
+object category "I_OBJ_Dye_WhiteBlack",1,0,0,0,0,0,0,0
+new subtable "10,1"
+object category "I_OBJ_DrowPoison",1,0,0,0,0,0,0,0
+new subtable "3,1"
+object category "I_OBJ_Potion_Of_Invisibility",1,0,0,0,0,0,0,0
+

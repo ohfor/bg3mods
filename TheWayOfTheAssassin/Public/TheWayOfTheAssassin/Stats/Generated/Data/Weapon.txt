@@ -1,0 +1,6 @@
+new entry "OHF_MAG_Shadow_Blinding_Bow"
+using "MAG_Shadow_Blinding_Bow"
+data "MinLevel" "1"
+data "RootTemplate" "2199a407-0ae8-4ada-b3cd-b19df5adeadd"
+data "Rarity" "Rare"
+data "Unique" "0"
