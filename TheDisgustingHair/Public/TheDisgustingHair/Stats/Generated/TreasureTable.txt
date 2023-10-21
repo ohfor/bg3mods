@@ -1,0 +1,19 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OHF_HAIR_BACKPACK",1,0,0,0,0,0,0,0
+
+new treasuretable "OHF_HAIR_BACKPACK_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_OHF_Quest_HAG_HagHair_Strength",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_Quest_HAG_HagHair_Dexterity",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_Quest_HAG_HagHair_Constitution",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_Quest_HAG_HagHair_Intelligence",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_Quest_HAG_HagHair_Wisdom",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_Quest_HAG_HagHair_Charisma",1,0,0,0,0,0,0,0
