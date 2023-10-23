@@ -1,0 +1,25 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OHF_FLAGELLANT_BACKPACK",1,0,0,0,0,0,0,0
+
+new treasuretable "OHF_FLAGELLANT_BACKPACK_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_OHF_MAG_LowHP_CounterOnDamage_ChainShirt",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_LowHP_TemporaryHP_Shield",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_LowHP_IncreaseSpeed_Boots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_LowHP_ResistanceFire_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_LowHP_IgnoreAttackOfOpportunity_Amulet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_LowHP_BonusAction_Helmet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_LowHP_IncreasedSpellDamage_Amulet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_Mobility_LowHP_Momentum_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_MAG_LowHP_IncreaseDamage_Greataxe",1,0,0,0,0,0,0,0

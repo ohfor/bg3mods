@@ -1,0 +1,6 @@
+new entry "OHF_MAG_LowHP_IncreaseDamage_Greataxe"
+using "MAG_LowHP_IncreaseDamage_Greataxe"
+data "MinLevel" "1"
+data "RootTemplate" "e1e090ec-ab8c-4db4-a0c3-8b7ab24bb181"
+data "Rarity" "Rare"
+data "Unique" "0"

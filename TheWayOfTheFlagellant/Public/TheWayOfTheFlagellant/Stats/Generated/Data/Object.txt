@@ -1,0 +1,7 @@
+new entry "OHF_FLAGELLANT_BACKPACK"
+type "Object"
+using "_Container"
+data "RootTemplate" "9a47eb2c-1da4-45f7-8257-65661f409501"
+data "ValueOverride" "7"
+data "Weight" "0.1"
+data "Rarity" "Rare"
