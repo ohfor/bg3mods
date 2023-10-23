@@ -23,3 +23,5 @@ new subtable "1,1"
 object category "I_OHF_MAG_Mobility_LowHP_Momentum_Ring",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OHF_MAG_LowHP_IncreaseDamage_Greataxe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OHF_GOB_PainPriest_Dagger",1,0,0,0,0,0,0,0

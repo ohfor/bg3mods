@@ -39,6 +39,9 @@ Inside it you will find the following items:
 ## Glowing Shield
 ![Glowing Shield](../media/flagellant/shield.png)
 
+## Ritual Dagger
+![Ritual Dagger](../media/flagellant/dagger.png)
+
 “Accept the pain, but don't accept that you deserved it.” - Brandon Sanderson, Oathbringer
 
 That's it, that's the mod. Enjoy!
